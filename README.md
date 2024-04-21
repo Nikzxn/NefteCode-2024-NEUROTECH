@@ -1,5 +1,5 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&pause=1000&color=2A2A2A&repeat=true&random=true&width=1100&height=100&lines=NEUROTECH-SPBPU-MISIS+%D0%9D%D0%95%D0%A4%D0%A2%D0%95%D0%9A%D0%9E%D0%94" alt="Typing SVG" /></a>
-<h2>Препроцессинг</h2>
+<h1>Препроцессинг</h1>
 <img src="assets/graf.png">
 График слева демонстрирует распределение oil_property_param_value.
 <p>Справа граф, который отражает структуру данных для одного масла.
@@ -11,11 +11,11 @@
 <p align="center">
   ...
 </p>
-<h2>Решение</h2>
+<h1>Решение</h1>
 <p align="center">
   ...
 </p>
-<h2>Заключение</h2>
+<h1>Заключение</h1>
 <p align="center">
   ...
 </p>
