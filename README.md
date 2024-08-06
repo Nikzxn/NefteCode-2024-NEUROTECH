@@ -1,4 +1,4 @@
-# Нефтекод: NEUROTECH-SPBPU-MISIS
+# Нефтекод: NEUROTECH SPBPU-MISIS 🥉
 
 Решение команды NEUROTECH-SPBPU-MISIS
 
